@@ -15,3 +15,6 @@ func CountTimes(a int, b int) int {
 func CountDevide(a int, b int) int {
 	return a / b
 }
+func CountAdd(a int, b int) int {
+	return a + b
+}
